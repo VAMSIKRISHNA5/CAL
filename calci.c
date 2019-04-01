@@ -20,7 +20,7 @@ void testcase(void)
  printf("\nOK");
 }
 void main(void){
- printf("Testing Calculator using assert :");
+ printf("Calculator test using assert :");
 
 testcase();
 
