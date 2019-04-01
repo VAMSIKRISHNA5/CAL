@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 #include <limits.h>
-#include "calculato.h"
+#include "calculat.h"
 void testcase(void)
 {
     assert(calc_1(10,9,1)== 19);
