@@ -1,4 +1,4 @@
-int calc_1(int num1, int num2, int op)
+int calc(int num1, int num2, int op)
 {
     int result;
     result=0;
